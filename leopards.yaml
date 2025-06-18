@@ -1,6 +1,10 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Nicholas
+=======
+manager: Melissa
+>>>>>>> conflict-2
 
 members:
 - Linda

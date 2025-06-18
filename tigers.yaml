@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Deborah
+=======
+manager: Donald
+>>>>>>> conflict-2
 
 members:
 - Linda
